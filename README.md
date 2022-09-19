@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Apple's Swift and SwiftUI tools for iOS Development.**
 
-- 💬 Ask me about **Kotlin, Flutter, and Java(Android Development).**
+- 💬 Ask me about **Kotlin, Flutter, and Java (Android Development).**
 
 - 📫 How to reach me **ruiz.gustavo97@gmail.com**
 
